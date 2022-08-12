@@ -47,7 +47,7 @@
     "react-intersection-observer": "^8.29.0",
     "react-markdown": "^5.0.3",
     "react-virtualized": "^9.22.3",
-    "theme-ui": "^0.10.0"
+    "theme-ui": "^0.14.6"
   },
   "devDependencies": {
     "prettier": "2.1.2"
