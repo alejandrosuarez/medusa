@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "execa": "^5.1.1",
-    "gatsby-cli": "^3.11.0"
+    "gatsby-cli": "^4.0.0"
   }
 }
