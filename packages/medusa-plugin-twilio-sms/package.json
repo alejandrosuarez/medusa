@@ -37,7 +37,7 @@
     "body-parser": "^1.19.0",
     "medusa-core-utils": "^1.1.31",
     "medusa-test-utils": "^1.1.37",
-    "twilio": "^3.49.1"
+    "twilio": "^4.0.0"
   },
   "gitHead": "c46300d58fbfd0b2dc2c02745ae143e6247e885b"
 }
