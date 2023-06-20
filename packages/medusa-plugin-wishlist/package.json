@@ -38,8 +38,8 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "medusa-core-utils": "^1.2.0",
-    "medusa-test-utils": "^1.1.40"
+    "medusa-core-utils": "^0.1.16",
+    "medusa-test-utils": "^0.1.16"
   },
   "gitHead": "3bbd1e8507e00bc471de6ae3c30207999a4a4011",
   "keywords": [
