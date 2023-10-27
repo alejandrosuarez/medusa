@@ -33,7 +33,7 @@
     "medusa-interfaces": "1.3.7"
   },
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^1.6.0"
   },
   "gitHead": "41a5425405aea5045a26def95c0dc00cf4a5a44d"
 }
