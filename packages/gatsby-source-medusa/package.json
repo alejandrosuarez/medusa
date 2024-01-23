@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "axios": "^0.24.0",
-    "babel-preset-gatsby-package": "^2.0.0",
+    "babel-preset-gatsby-package": "^3.13.1",
     "gatsby-core-utils": "^3.3.0",
     "gatsby-plugin-image": "^2.3.0",
     "gatsby-source-filesystem": "^4.3.0"
