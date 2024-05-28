@@ -23,7 +23,7 @@
     "jest": "^25.5.4",
     "lodash": "^4.17.21",
     "signal-exit": "^3.0.7",
-    "verdaccio": "^4.10.0",
+    "verdaccio": "^5.0.0",
     "yargs": "^15.4.1"
   },
   "devDependencies": {
