@@ -61,7 +61,7 @@
     "tsup": "^6.5.0"
   },
   "dependencies": {
-    "@medusajs/medusa-js": "2.0.0"
+    "@medusajs/medusa-js": "1.0.0"
   },
   "msw": {
     "workerDirectory": "public"
