@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "@faker-js/faker": "^5.5.3",
-    "testcontainers": "^8.10.1"
+    "testcontainers": "^10.11.0"
   }
 }
