@@ -19,11 +19,11 @@
   "dependencies": {
     "@cloudinary/react": "^1.11.2",
     "@cloudinary/url-gen": "^1.9.2",
-    "@docusaurus/core": "latest",
-    "@docusaurus/preset-classic": "latest",
+    "@docusaurus/core": "3.3.0",
+    "@docusaurus/preset-classic": "3.5.0",
     "@docusaurus/remark-plugin-npm2yarn": "latest",
     "@octokit/request": "^6.2.3",
-    "@svgr/webpack": "6.2.1",
+    "@svgr/webpack": "7.0.0",
     "algoliasearch-helper": "^3.11.3",
     "animate.css": "^4.1.1",
     "clsx": "^1.1.1",
@@ -38,7 +38,7 @@
     "react-tooltip": "5.7.4",
     "react-transition-group": "^4.4.5",
     "react-uuid": "^2.0.0",
-    "redocusaurus": "^1.4.0",
+    "redocusaurus": "^2.0.0",
     "url-loader": "^4.1.1"
   },
   "browserslist": {
